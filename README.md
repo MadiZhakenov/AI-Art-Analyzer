@@ -1,4 +1,4 @@
-# AI Art Analyzer 🎨🤖 <br> (Art and Emotion: Applying Digital Technologies for Emotional Perception Analysis in Visual Art)
+# AI Art Analyzer 🎨🤖
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <!-- You can choose another license -->
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/) <!-- Specify your Python version -->

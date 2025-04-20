@@ -157,5 +157,3 @@ This project is licensed under the [MIT License](LICENSE). <!-- Ensure you have 
 ## 📞 Contact
 
 Madi Zhakenov - [MadiZhakenov](https://github.com/MadiZhakenov)
-
----

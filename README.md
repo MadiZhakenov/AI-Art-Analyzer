@@ -13,8 +13,6 @@ A Telegram bot powered by Google Gemini API, designed to analyze and interpret t
 
 Art perception is subjective, and not every viewer can easily interpret the emotions embedded by the artist. **AI Art Analyzer** is an intelligent tool developed to help users better understand the emotional message of artworks. The bot leverages the capabilities of the Google Gemini model to analyze visual elements (color, composition, texture, brushstroke style) and textual descriptions (if provided by the user), offering in-depth analysis and possible interpretations.
 
-**Research Goal:** To develop an intelligent tool based on the Gemini API that helps viewers better understand the emotional message of artworks.
-
 ---
 
 ## 🖼️ Demo (Video Example)

@@ -127,17 +127,6 @@ https://youtube.com/shorts/U31Z49a0u_w?si=hZouxN2BOXjvrdAA
 
 ---
 
-## 🔬 Theoretical Basis and Research
-
-The project is based on studying art perception factors and applying AI:
-
-*   **Perception Factors:** Color (mood), composition (harmony, dynamics), texture (depth). (References to Fei & Jencks, 2021; Zhao et al., 2019; Melcher & Bacci, 2018 - *latter mentioned on slide 4*).
-*   **AI in Art History:** AI's potential for analyzing visual elements and predicting emotional responses. (Riccio et al., 2020 - *mentioned on slide 4*; Stamkou et al., 2021/2024 - *mentioned on slide 4 and in references*).
-*   **Survey Analysis:** User preferences regarding the influence of color, composition, brushstrokes, textual descriptions, and personal experience on perception were considered.
-*   **Data Preparation:** Investigated the impact of color palettes, composition, brushstroke styles, and textual interpretations on emotional perception.
-
----
-
 ## ✅ Testing Results
 
 Testing showed that the bot:

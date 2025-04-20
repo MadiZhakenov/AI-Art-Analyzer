@@ -5,8 +5,6 @@
 
 A Telegram bot powered by Google Gemini API, designed to analyze and interpret the emotional content of visual artworks.
 
----
-
 **Author:** Madi Zhakenov (SE-2327), Astana IT University, 2025
 
 ---
